@@ -1,0 +1,11 @@
+/* header section */
+.first-section{
+    background-image: url('../banner image.png');
+    text-align: center;
+    border-radius: 16px;
+    font-size: 30px;
+    margin: 0 auto;
+    width: 600px;
+   
+  
+}
